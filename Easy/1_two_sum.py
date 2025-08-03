@@ -10,10 +10,11 @@
 
 class Solution(object):
     def twoSum(self, nums, target):
+        #Runtime Complexity: O(n)
 
         numMap = {} # creates empty dictionary
 
-        # enumerate() loops throught a list and get both index and value in a list
+        # enumerate() loops through a list and get both index and value in a list
         # enumerate() returns something like [{0: nums[0]}, {1: nums[1]}, {2: nums[2]}...]
         for index, value in enumerate(nums):
             if target - value not in numMap: # if the number (target - value) is not yet in the numMap,
