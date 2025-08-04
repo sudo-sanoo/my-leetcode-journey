@@ -3,6 +3,8 @@
 #If the other string matches the exact letters and the number of their occurences, then it is an anagram
 
 class Solution(object):
+    #Approach 1: Using HashMap to count the occurence of each letters.
+    #Time complexity of O(s + t), because we are iterating two strings
     def isAnagram(self, s, t):
         freqS = {}
         freqT = {}
