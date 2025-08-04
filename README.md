@@ -1,6 +1,4 @@
 ## Solved Problems
-## ---------------
-
 ### Easy
 704. Binary Search
 217. Contains Duplicate
