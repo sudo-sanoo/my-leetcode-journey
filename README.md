@@ -6,3 +6,6 @@
 - `1`. Two Sum
 - `242`. Valid Anagram   
 - `14`. Longest Common Prefix
+
+### Medium
+- `49`. Group Anagrams
