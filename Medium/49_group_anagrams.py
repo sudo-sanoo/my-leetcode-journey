@@ -12,6 +12,14 @@
 # Bonus: Using an empty string also works since strings are also IMMUTABLE and HASHABLE.
 # key = "".join(sorted(i)) also works
 
+# Time complexity of this solution is O(m*n) where
+# m is the number of elements(string) in the input list, 
+# n is the average length of each string(word),
+
+# Memory complexity of this solution is also O(m*n)
+# In the worst case, every word is a different anagram, so the hashmap stores m keys and m lists of words
+# Each key is a tuple of length n, so total auxiliary space is proportional to all characters
+
 class Solution(object):
     def groupAnagrams(self, strs):
         hashMap = {}
@@ -24,3 +32,5 @@ class Solution(object):
                 hashMap[key] = [i] #append a new word as the value
 
         return list(hashMap.values()) #since the values in the hashmap is already a list of anagrams (grouped), simply return the hashmap in the form of a list
+
+
