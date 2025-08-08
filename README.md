@@ -6,6 +6,7 @@
 - `1`. Two Sum
 - `242`. Valid Anagram   
 - `14`. Longest Common Prefix
+- `13`. Roman to Integer
 
 ### Medium
 - `49`. Group Anagrams
