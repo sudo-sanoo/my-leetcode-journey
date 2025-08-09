@@ -10,3 +10,4 @@
 
 ### Medium
 - `49`. Group Anagrams
+- `128`. Longest Consecutive Sequence
