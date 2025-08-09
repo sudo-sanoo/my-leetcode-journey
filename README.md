@@ -7,6 +7,7 @@
 - `242`. Valid Anagram   
 - `14`. Longest Common Prefix
 - `13`. Roman to Integer
+- `231`. Power of Two
 
 ### Medium
 - `49`. Group Anagrams
