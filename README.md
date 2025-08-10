@@ -12,3 +12,4 @@
 ### Medium
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
+- `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌)
