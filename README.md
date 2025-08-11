@@ -8,6 +8,7 @@
 - `14`. Longest Common Prefix
 - `13`. Roman to Integer
 - `231`. Power of Two (Math✅, Bit Manipulation❌, Recursion❌)
+- `9`. Palindrome Number
 
 ### Medium
 - `49`. Group Anagrams
