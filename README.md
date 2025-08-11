@@ -9,6 +9,7 @@
 - `13`. Roman to Integer
 - `231`. Power of Two (Math✅, Bit Manipulation❌, Recursion❌)
 - `9`. Palindrome Number
+- `342`. Power of Four
 
 ### Medium
 - `49`. Group Anagrams
