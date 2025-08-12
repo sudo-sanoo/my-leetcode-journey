@@ -11,6 +11,7 @@
 - `9`. Palindrome Number
 - `342`. Power of Four
 - `326`. Power of Three
+- `412`. Fizz Buzz
 
 ### Medium
 - `49`. Group Anagrams
