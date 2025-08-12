@@ -4,6 +4,24 @@ class Solution(object):
         :type n: int
         :rtype: List[str]
         """
+
+        # Improved attempt
+        fizzbuzz_list = []
+
+        for i in range(1, n+1):
+            if i % 5 == 0 and i % 3 == 0:
+                # instead of assigning the string one by one, we can directly append the string into the list
+                fizzbuzz_list.append("FizzBuzz")
+            elif i % 5 == 0:
+                fizzbuzz_list.append("Buzz")
+            elif i % 3 == 0:
+                fizzbuzz_list.append("Fizz")
+            else:
+                fizzbuzz_list.append(str(i))
+
+        return fizzbuzz_list
+
+        '''
         fizzbuzz_list = []
 
         for i in range(1, n+1):
@@ -21,3 +39,4 @@ class Solution(object):
                 fizzbuzz_list.append(i)
 
         return fizzbuzz_list
+        '''
