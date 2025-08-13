@@ -12,6 +12,7 @@
 - `342`. Power of Four
 - `326`. Power of Three
 - `412`. Fizz Buzz
+- `258`. Add Digits (String✅, Math❌)
 
 ### Medium
 - `49`. Group Anagrams
