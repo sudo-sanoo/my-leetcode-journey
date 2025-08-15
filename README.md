@@ -14,6 +14,7 @@
 - `412`. Fizz Buzz
 - `258`. Add Digits (String✅, Math❌)
 - `2264`. Largest 3-Same-Digit Number in String
+- `58`. Length of Last Word
 
 ### Medium
 - `49`. Group Anagrams
