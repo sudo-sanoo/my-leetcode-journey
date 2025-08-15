@@ -16,6 +16,7 @@
 - `2264`. Largest 3-Same-Digit Number in String
 - `58`. Length of Last Word
 - `2235`. Add Two Integers
+- `202`. Happy Number
 
 ### Medium
 - `49`. Group Anagrams
