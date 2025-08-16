@@ -17,6 +17,7 @@
 - `58`. Length of Last Word
 - `2235`. Add Two Integers
 - `202`. Happy Number
+- `1323`. Maximum 69 Number
 
 ### Medium
 - `49`. Group Anagrams
