@@ -19,6 +19,7 @@
 - `202`. Happy Number
 - `1323`. Maximum 69 Number
 - `1281`. Subtract the Product and Sum of Digits of an Integer
+- `125`. Valid Palindrome
 
 ### Medium
 - `49`. Group Anagrams
