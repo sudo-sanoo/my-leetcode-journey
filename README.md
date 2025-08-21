@@ -20,6 +20,7 @@
 - `1323`. Maximum 69 Number
 - `1281`. Subtract the Product and Sum of Digits of an Integer
 - `125`. Valid Palindrome
+- `268`. Missing Number
 
 ### Medium
 - `49`. Group Anagrams
