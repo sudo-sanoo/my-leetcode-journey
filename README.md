@@ -21,6 +21,7 @@
 - `1281`. Subtract the Product and Sum of Digits of an Integer
 - `125`. Valid Palindrome
 - `268`. Missing Number
+- `1929`. Concatenation of Array
 
 ### Medium
 - `49`. Group Anagrams
