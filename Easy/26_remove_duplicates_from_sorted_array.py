@@ -21,7 +21,8 @@ class Solution(object):
                 k += 1
 
         return k
-        
+
+        '''
         # Approach 1: Brute-force, uneccessary .remove() and while loop worse case having to loop n times.
         #    - Runtime Complexity of O(n**2)
         result = len(nums)
@@ -37,3 +38,4 @@ class Solution(object):
                 compare += 1
 
         return result
+        '''
