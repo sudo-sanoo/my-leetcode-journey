@@ -22,6 +22,7 @@
 - `125`. Valid Palindrome
 - `268`. Missing Number
 - `1929`. Concatenation of Array
+- `26`. Remove Duplicates from Sorted Array
 
 ### Medium
 - `49`. Group Anagrams
