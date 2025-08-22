@@ -23,6 +23,7 @@
 - `268`. Missing Number
 - `1929`. Concatenation of Array
 - `26`. Remove Duplicates from Sorted Array
+- `27`. Remove Element
 
 ### Medium
 - `49`. Group Anagrams
