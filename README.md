@@ -24,6 +24,7 @@
 - `1929`. Concatenation of Array
 - `26`. Remove Duplicates from Sorted Array
 - `27`. Remove Element
+- `69`. Sqrt(x)
 
 ### Medium
 - `49`. Group Anagrams
