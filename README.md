@@ -6,6 +6,7 @@
 - `1`. Two Sum
 - `242`. Valid Anagram   
 - `14`. Longest Common Prefix
+- `35`. Search Insert Position
 - `13`. Roman to Integer
 - `231`. Power of Two (Math✅, Bit Manipulation❌, Recursion❌)
 - `9`. Palindrome Number
