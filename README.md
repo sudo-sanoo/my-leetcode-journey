@@ -27,6 +27,7 @@
 - `26`. Remove Duplicates from Sorted Array
 - `27`. Remove Element
 - `69`. Sqrt(x)
+- `367`. Valid Perfect Square
 
 ### Medium
 - `49`. Group Anagrams
