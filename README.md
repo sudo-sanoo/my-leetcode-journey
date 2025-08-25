@@ -33,4 +33,4 @@
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌)
 - `53`. Maximum Subarray
-- `229`. Majority Element II
+- `229`. Majority Element II (Frequency Count✅, Boyer-Moore's Majority Vote Algorithm✅)
