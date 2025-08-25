@@ -21,6 +21,7 @@
 - `1323`. Maximum 69 Number
 - `1281`. Subtract the Product and Sum of Digits of an Integer
 - `125`. Valid Palindrome
+- `169`. Majority Element
 - `268`. Missing Number
 - `1929`. Concatenation of Array
 - `26`. Remove Duplicates from Sorted Array
