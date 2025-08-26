@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy
+### Easy (29 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -28,8 +28,9 @@
 - `27`. Remove Element
 - `69`. Sqrt(x)
 - `367`. Valid Perfect Square
+- `3000`. Maximum Area of Longest Diagonal Rectangle
 
-### Medium
+### Medium (5 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌)
