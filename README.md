@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy (29 Solved)
+### Easy (30 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -29,6 +29,7 @@
 - `69`. Sqrt(x)
 - `367`. Valid Perfect Square
 - `3000`. Maximum Area of Longest Diagonal Rectangle
+- `28`. Find the Index of the First Occurence in a String
 
 ### Medium (5 Solved)
 - `49`. Group Anagrams
