@@ -30,6 +30,7 @@
 - `367`. Valid Perfect Square
 - `3000`. Maximum Area of Longest Diagonal Rectangle
 - `28`. Find the Index of the First Occurence in a String
+- `2894`. Divisible and Non-Divisible Sum Difference
 
 ### Medium (5 Solved)
 - `49`. Group Anagrams
