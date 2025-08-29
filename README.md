@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy (34 Solved)
+### Easy (35 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -34,6 +34,7 @@
 - `3442`. Maximum Difference Between Even and Odd Frequency I
 - `278`. First Bad Version
 - `374`. Guess Number Higher or Lower
+- `744`. Find Smallest Letter Greater Than Target
 
 ### Medium (5 Solved)
 - `49`. Group Anagrams
