@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy (33 Solved)
+### Easy (34 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -33,6 +33,7 @@
 - `2894`. Divisible and Non-Divisible Sum Difference
 - `3442`. Maximum Difference Between Even and Odd Frequency I
 - `278`. First Bad Version
+- `374`. Guess Number Higher or Lower
 
 ### Medium (5 Solved)
 - `49`. Group Anagrams
