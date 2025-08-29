@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy (31 Solved)
+### Easy (32 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -32,6 +32,7 @@
 - `28`. Find the Index of the First Occurence in a String
 - `2894`. Divisible and Non-Divisible Sum Difference
 - `3442`. Maximum Difference Between Even and Odd Frequency I
+- `278`. First Bad Version
 
 ### Medium (5 Solved)
 - `49`. Group Anagrams
