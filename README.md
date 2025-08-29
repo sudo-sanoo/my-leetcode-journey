@@ -31,6 +31,7 @@
 - `3000`. Maximum Area of Longest Diagonal Rectangle
 - `28`. Find the Index of the First Occurence in a String
 - `2894`. Divisible and Non-Divisible Sum Difference
+- `3442`. Maximum Difference Between Even and Odd Frequency I
 
 ### Medium (5 Solved)
 - `49`. Group Anagrams
