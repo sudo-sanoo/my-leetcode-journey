@@ -36,9 +36,10 @@
 - `374`. Guess Number Higher or Lower
 - `744`. Find Smallest Letter Greater Than Target
 
-### Medium (5 Solved)
+### Medium (6 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌)
 - `53`. Maximum Subarray
 - `229`. Majority Element II (Frequency Count✅, Boyer-Moore's Majority Vote Algorithm✅)
+- `36`. Valid Sudoku
