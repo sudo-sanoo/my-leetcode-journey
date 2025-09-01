@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy (37 Solved)
+### Easy (38 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -37,6 +37,7 @@
 - `744`. Find Smallest Letter Greater Than Target
 - `977`. Squares of a Sorted Array
 - `283`. Move Zeroes
+- `349`. Intersection of Two Arrays (HashSet✅, Sort+Two-Pointers❌)
 
 ### Medium (6 Solved)
 - `49`. Group Anagrams
