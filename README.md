@@ -40,10 +40,11 @@
 - `349`. Intersection of Two Arrays (HashSet✅, Sort+Two-Pointers❌)
 - `2089`. Find Target Indices After Sorting Array (Sort&Iterate✅, Sort+BinarySearch❌)
 
-### Medium (6 Solved)
+### Medium (7 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌)
 - `53`. Maximum Subarray
 - `229`. Majority Element II (Frequency Count✅, Boyer-Moore's Majority Vote Algorithm✅)
 - `36`. Valid Sudoku
+- `167`. Two Sum II - Input Array Is Sorted
