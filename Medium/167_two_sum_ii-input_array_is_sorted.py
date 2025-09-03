@@ -5,6 +5,24 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+        # Approach 3: Binary Search
+        for i in range(len(numbers)-1):
+            left = i + 1
+            right = len(numbers) - 1
+            complement = target - numbers[i]
+
+            while left <= right:
+                mid = (left + right) // 2
+                if numbers[mid] == complement:
+                    return [i+1, mid+1]
+                elif numbers[mid] < complement:
+                    left = mid + 1
+                else:
+                    right = mid - 1
+                    
+        return -1
+
+        '''
         # Approach 2: Two Pointers
         i = 0
         j = len(numbers)-1
@@ -18,6 +36,7 @@ class Solution(object):
                 return [i+1, j+1]
 
         return -1
+        '''
 
         '''
         # Approach 1: HashMap
