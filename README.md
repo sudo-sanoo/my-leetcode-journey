@@ -47,4 +47,4 @@
 - `53`. Maximum Subarray
 - `229`. Majority Element II (Frequency Count✅, Boyer-Moore's Majority Vote Algorithm✅)
 - `36`. Valid Sudoku
-- `167`. Two Sum II - Input Array Is Sorted (HashMap✅, Two Pointers❌, Binary Search❌)
+- `167`. Two Sum II - Input Array Is Sorted (HashMap✅, Two Pointers✅, Binary Search❌)
