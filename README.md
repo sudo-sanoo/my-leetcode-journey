@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy (39 Solved)
+### Easy (40 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -39,6 +39,7 @@
 - `283`. Move Zeroes
 - `349`. Intersection of Two Arrays (HashSet✅, Sort+Two-Pointers❌)
 - `2089`. Find Target Indices After Sorting Array (Sort&Iterate✅, Sort+BinarySearch❌)
+- `290`. Word Pattern
 
 ### Medium (7 Solved)
 - `49`. Group Anagrams
