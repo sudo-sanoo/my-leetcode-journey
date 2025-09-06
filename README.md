@@ -41,6 +41,7 @@
 - `2089`. Find Target Indices After Sorting Array (Sort&Iterate✅, Sort+BinarySearch❌)
 - `290`. Word Pattern
 - `344`. Reverse String
+- `136`. Single Number (.count()✅, Bit Manipulation❌)
 
 ### Medium (7 Solved)
 - `49`. Group Anagrams
