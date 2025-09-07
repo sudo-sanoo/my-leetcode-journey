@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy (42 Solved)
+### Easy (43 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -42,6 +42,7 @@
 - `290`. Word Pattern
 - `344`. Reverse String
 - `136`. Single Number (.count()✅, Bit Manipulation❌)
+- `1304`. Find N Unique Integers Sum up to Zero
 
 ### Medium (7 Solved)
 - `49`. Group Anagrams
