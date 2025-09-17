@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy (46 Solved)
+### Easy (47 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -46,6 +46,7 @@
 - `1317`. Convert Integer to the Sum of Two No-Zero Integers
 - `3541`. Find Most Frequent Vowel and Consonant
 - `1935`. Maximum Number of Words You Can Type
+- `383`. Ransom Note
 
 ### Medium (7 Solved)
 - `49`. Group Anagrams
