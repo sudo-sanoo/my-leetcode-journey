@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy (47 Solved)
+### Easy (48 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
