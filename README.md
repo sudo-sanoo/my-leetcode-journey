@@ -47,6 +47,7 @@
 - `3541`. Find Most Frequent Vowel and Consonant
 - `1935`. Maximum Number of Words You Can Type
 - `383`. Ransom Note
+- `1518`. Water Bottles
 
 ### Medium (7 Solved)
 - `49`. Group Anagrams
