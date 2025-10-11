@@ -49,7 +49,7 @@
 - `383`. Ransom Note
 - `1518`. Water Bottles
 
-### Medium (9 Solved)
+### Medium (10 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌)
@@ -59,3 +59,4 @@
 - `167`. Two Sum II - Input Array Is Sorted (HashMap✅, Two Pointers✅, Binary Search✅)
 - `3100`. Water Bottles II
 - `11`. Container With Most Water
+- `238`. Product of Array Except Self
