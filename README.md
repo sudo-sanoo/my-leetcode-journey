@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy (49 Solved)
+### Easy (50 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -49,6 +49,7 @@
 - `383`. Ransom Note
 - `1518`. Water Bottles
 - `1480`. Running Sum of 1d Array
+- `303`. Range Sum Query
 
 ### Medium (10 Solved)
 - `49`. Group Anagrams
