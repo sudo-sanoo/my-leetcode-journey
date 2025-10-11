@@ -12,8 +12,6 @@ class Solution(object):
         # Simplify that, we get:
         # res[i] = prefix[i] * suffix[i]
 
-        # To get the suffix
-
         res = [1] * len(nums) # define the size of res to be equal the size of nums first
 
         # Each prefix[i] = product of everything BEFORE i
