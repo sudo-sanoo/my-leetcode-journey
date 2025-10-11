@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy (48 Solved)
+### Easy (49 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -48,6 +48,7 @@
 - `1935`. Maximum Number of Words You Can Type
 - `383`. Ransom Note
 - `1518`. Water Bottles
+- `1480`. Running Sum of 1d Array
 
 ### Medium (10 Solved)
 - `49`. Group Anagrams
