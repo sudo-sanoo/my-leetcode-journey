@@ -51,7 +51,7 @@
 - `1480`. Running Sum of 1d Array
 - `303`. Range Sum Query
 
-### Medium (10 Solved)
+### Medium (11 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌)
@@ -62,3 +62,4 @@
 - `3100`. Water Bottles II
 - `11`. Container With Most Water
 - `238`. Product of Array Except Self
+- `560`. Subarray Sum Equals K
