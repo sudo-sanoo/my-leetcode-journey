@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy (51 Solved)
+### Easy (52 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -51,6 +51,7 @@
 - `1480`. Running Sum of 1d Array
 - `303`. Range Sum Query
 - `724`. Find Pivot Index
+- `1991`. Find the Middle Index in Array (Problem and Solution is the exact same as 724. Find Pivot Index)
 
 ### Medium (12 Solved)
 - `49`. Group Anagrams
