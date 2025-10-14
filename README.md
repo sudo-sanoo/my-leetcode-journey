@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy (50 Solved)
+### Easy (51 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -50,6 +50,7 @@
 - `1518`. Water Bottles
 - `1480`. Running Sum of 1d Array
 - `303`. Range Sum Query
+- `724`. Find Pivot Index
 
 ### Medium (12 Solved)
 - `49`. Group Anagrams
