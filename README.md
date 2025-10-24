@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy (52 Solved)
+### Easy (53 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -52,6 +52,7 @@
 - `303`. Range Sum Query
 - `724`. Find Pivot Index
 - `1991`. Find the Middle Index in Array (Problem and Solution is the exact same as 724. Find Pivot Index)
+- `2389`. Longest Subsequence With Limited Sum
 
 ### Medium (13 Solved)
 - `49`. Group Anagrams
