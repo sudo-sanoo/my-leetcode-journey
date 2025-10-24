@@ -53,7 +53,7 @@
 - `724`. Find Pivot Index
 - `1991`. Find the Middle Index in Array (Problem and Solution is the exact same as 724. Find Pivot Index)
 
-### Medium (12 Solved)
+### Medium (13 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌)
@@ -66,3 +66,4 @@
 - `238`. Product of Array Except Self
 - `560`. Subarray Sum Equals K
 - `523`. Continuous Subarray Sum
+- `974`. Subarray Sums Divisible by K
