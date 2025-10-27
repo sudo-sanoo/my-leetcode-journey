@@ -54,7 +54,7 @@
 - `1991`. Find the Middle Index in Array (Problem and Solution is the exact same as 724. Find Pivot Index)
 - `2389`. Longest Subsequence With Limited Sum
 
-### Medium (14 Solved)
+### Medium (15 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌)
@@ -69,3 +69,4 @@
 - `523`. Continuous Subarray Sum
 - `974`. Subarray Sums Divisible by K
 - `209`. Minimum Size Subarray Sum
+- `2125`. Number of Laser Beams in a Bank
