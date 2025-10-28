@@ -55,7 +55,7 @@
 - `2389`. Longest Subsequence With Limited Sum
 - `3354`. Make Array Elements Equal to Zero
 
-### Medium (16 Solved)
+### Medium (17 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌)
@@ -72,3 +72,4 @@
 - `209`. Minimum Size Subarray Sum
 - `2125`. Number of Laser Beams in a Bank
 - `1248`. Count Number of Nice Subarrays
+- `187`. Repeated DNA Sequences
