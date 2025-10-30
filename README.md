@@ -56,7 +56,7 @@
 - `3354`. Make Array Elements Equal to Zero
 -`389`. Find the Difference
 
-### Medium (18 Solved)
+### Medium (19 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌)
@@ -75,3 +75,4 @@
 - `1248`. Count Number of Nice Subarrays
 - `187`. Repeated DNA Sequences
 - `3`. Longest Substring Without Repeating Characters
+- `413`. Arithmetic Slices
