@@ -54,8 +54,8 @@
 - `1991`. Find the Middle Index in Array (Problem and Solution is the exact same as 724. Find Pivot Index)
 - `2389`. Longest Subsequence With Limited Sum
 - `3354`. Make Array Elements Equal to Zero
--`389`. Find the Difference
--`3289`. The Two Sneaky Numbers of Digitville (2 sneaky bastards have been arrested)
+- `389`. Find the Difference
+- `3289`. The Two Sneaky Numbers of Digitville (2 sneaky bastards have been arrested)
 
 ### Medium (19 Solved)
 - `49`. Group Anagrams
