@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-### Easy (55 Solved)
+### Easy (56 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -55,6 +55,7 @@
 - `2389`. Longest Subsequence With Limited Sum
 - `3354`. Make Array Elements Equal to Zero
 -`389`. Find the Difference
+-`3289`. The Two Sneaky Numbers of Digitville (2 sneaky bastards have been arrested)
 
 ### Medium (19 Solved)
 - `49`. Group Anagrams
