@@ -57,7 +57,7 @@
 - `389`. Find the Difference
 - `3289`. The Two Sneaky Numbers of Digitville (2 sneaky bastards have been arrested)
 
-### Medium (20 Solved)
+### Medium (21 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌)
@@ -78,3 +78,4 @@
 - `3`. Longest Substring Without Repeating Characters
 - `413`. Arithmetic Slices
 - `442`. Find All Duplicates in an Array
+- `3217`. Delete Nodes From Linked List Present in Array ❓
