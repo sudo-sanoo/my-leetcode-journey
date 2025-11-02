@@ -1,5 +1,5 @@
 ## Solved Problems (In order)
-#### (✅ - Implemented solution, ❌ - Not implemented solution, ❓ - Will return, [No emoji] - Generally solved)
+#### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
 ### Easy (56 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
