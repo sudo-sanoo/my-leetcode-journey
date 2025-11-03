@@ -83,4 +83,4 @@
 - `2257`. Count Unguarded Cells in the Grid ❓
 - `1749`. Maximum Absolute Sum of Any Subarray (Kadane's ✅, Prefix Sum ✅)
 - `395`. Longest Substring with At Least K Repeating Characters (Sliding Window ✅, Divide and Conquer ❌) ❓
-- `1578`. Minimum Time to Make Rope Colorful (Sliding Window + Greedy ✅, Two Pointers ✅)
+- `1578`. Minimum Time to Make Rope Colorful (Sliding Window+Greedy ✅, Two Pointers ✅)
