@@ -5,6 +5,19 @@ class Solution(object):
         :type neededTime: List[int]
         :rtype: int
         """
+        # More optimized solution (Two Pointers)
+        res, l = 0, 0
+        for r in range(1, len(colors)):
+            if colors[l] == colors[r]:
+                if neededTime[l] > neededTime[r]:
+                    res += neededTime[r]
+                else:
+                    res += neededTime[l]
+                    l = r
+            else:
+                l = r
+        return res
+
         # Optimized Solution
         res = 0
         for i in range(1, len(colors)):
