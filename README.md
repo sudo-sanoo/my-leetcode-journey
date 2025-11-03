@@ -9,7 +9,7 @@
 - `14`. Longest Common Prefix
 - `35`. Search Insert Position
 - `13`. Roman to Integer
-- `231`. Power of Two (Math✅, Bit Manipulation❌, Recursion❌)
+- `231`. Power of Two (Math✅, Bit Manipulation❌, Recursion❌) ❓
 - `9`. Palindrome Number
 - `342`. Power of Four
 - `326`. Power of Three
@@ -38,11 +38,11 @@
 - `744`. Find Smallest Letter Greater Than Target
 - `977`. Squares of a Sorted Array
 - `283`. Move Zeroes
-- `349`. Intersection of Two Arrays (HashSet✅, Sort+Two-Pointers❌)
-- `2089`. Find Target Indices After Sorting Array (Sort&Iterate✅, Sort+BinarySearch❌)
+- `349`. Intersection of Two Arrays (HashSet✅, Sort+Two-Pointers❌) ❓
+- `2089`. Find Target Indices After Sorting Array (Sort&Iterate✅, Sort+BinarySearch❌) ❓
 - `290`. Word Pattern
 - `344`. Reverse String
-- `136`. Single Number (.count()✅, Bit Manipulation❌)
+- `136`. Single Number (.count()✅, Bit Manipulation❌) ❓
 - `1304`. Find N Unique Integers Sum up to Zero
 - `1317`. Convert Integer to the Sum of Two No-Zero Integers
 - `3541`. Find Most Frequent Vowel and Consonant
@@ -58,10 +58,10 @@
 - `389`. Find the Difference
 - `3289`. The Two Sneaky Numbers of Digitville (2 sneaky bastards have been arrested)
 
-### Medium (23 Solved)
+### Medium (24 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
-- `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌)
+- `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
 - `53`. Maximum Subarray
 - `229`. Majority Element II (Frequency Count✅, Boyer-Moore's Majority Vote Algorithm✅)
 - `36`. Valid Sudoku
@@ -82,3 +82,4 @@
 - `3217`. Delete Nodes From Linked List Present in Array ❓
 - `2257`. Count Unguarded Cells in the Grid ❓
 - `1749`. Maximum Absolute Sum of Any Subarray (Kadane's ✅, Prefix Sum ✅)
+- `395`. Longest Substring with At Least K Repeating Characters (Sliding Window ✅, Divide and Conquer ❌) ❓
