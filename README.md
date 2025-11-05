@@ -59,7 +59,7 @@
 - `3289`. The Two Sneaky Numbers of Digitville (2 sneaky bastards have been arrested)
 - `3318`. Find X-Sum of All K-Long Subarrays I
 
-### Medium (27 Solved)
+### Medium (28 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -87,6 +87,7 @@
 - `1578`. Minimum Time to Make Rope Colorful (Sliding Window+Greedy ✅, Two Pointers ✅)
 - `1769`. Minimum Number of Operations to Move All Balls to Each Box
 - `1493`. Longest Subarray of 1's After Deleting One Element (Sliding Window + Prefix Sum ✅, Dynamic Programming ❌) ❓
+- `2958`. Length of Longest Subarray With at Most K Frequency
 
 ### Hard (1 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
