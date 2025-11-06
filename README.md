@@ -88,6 +88,7 @@
 - `1769`. Minimum Number of Operations to Move All Balls to Each Box
 - `1493`. Longest Subarray of 1's After Deleting One Element (Sliding Window + Prefix Sum ✅, Dynamic Programming ❌) ❓
 - `2958`. Length of Longest Subarray With at Most K Frequency
+- `3607`. Power Grid Maintenance ❓
 
 ### Hard (1 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
