@@ -59,7 +59,7 @@
 - `3289`. The Two Sneaky Numbers of Digitville (2 sneaky bastards have been arrested)
 - `3318`. Find X-Sum of All K-Long Subarrays I
 
-### Medium (28 Solved)
+### Medium (29 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
