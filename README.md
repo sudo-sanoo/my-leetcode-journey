@@ -92,3 +92,4 @@
 
 ### Hard (1 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
+- `2528`. Maximize the Minimum Powered City ❓
