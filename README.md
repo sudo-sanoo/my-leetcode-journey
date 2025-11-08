@@ -90,6 +90,7 @@
 - `2958`. Length of Longest Subarray With at Most K Frequency
 - `3607`. Power Grid Maintenance ❓
 
-### Hard (2 Solved)
+### Hard (3 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
+- `1611`. Minimum One Bit Operations to Make Integers Zero
