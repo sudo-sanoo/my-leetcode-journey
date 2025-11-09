@@ -59,7 +59,7 @@
 - `3289`. The Two Sneaky Numbers of Digitville (2 sneaky bastards have been arrested)
 - `3318`. Find X-Sum of All K-Long Subarrays I
 
-### Medium (31 Solved)
+### Medium (32 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -90,7 +90,8 @@
 - `2958`. Length of Longest Subarray With at Most K Frequency
 - `3607`. Power Grid Maintenance ❓
 - `3254`. Find the Power of K-Size Subarrays I
-- `3255`. Find the Power of K-Size Subarrays II 
+- `3255`. Find the Power of K-Size Subarrays II
+- `3297`. Count Substrings That Can Be Rearranged to Contain a String I
 
 ### Hard (3 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
