@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (57 Solved)
+### Easy (58 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -58,6 +58,7 @@
 - `389`. Find the Difference
 - `3289`. The Two Sneaky Numbers of Digitville (2 sneaky bastards have been arrested)
 - `3318`. Find X-Sum of All K-Long Subarrays I
+- `2169`. Count Operations to Obtain Zero
 
 ### Medium (33 Solved)
 - `49`. Group Anagrams
