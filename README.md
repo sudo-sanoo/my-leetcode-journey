@@ -95,6 +95,7 @@
 - `3297`. Count Substrings That Can Be Rearranged to Contain a String I
 - `535`. Encode and Decode TinyURL (System Design Problem)
 - `150`. Evaluate Reverse Polish Notation
+- `1441`. Build an Array With Stack Operations
 
 ### Hard (3 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
