@@ -60,7 +60,7 @@
 - `3318`. Find X-Sum of All K-Long Subarrays I
 - `2169`. Count Operations to Obtain Zero
 
-### Medium (34 Solved)
+### Medium (36 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -96,6 +96,7 @@
 - `535`. Encode and Decode TinyURL (System Design Problem)
 - `150`. Evaluate Reverse Polish Notation
 - `1441`. Build an Array With Stack Operations
+- `2390`. Removing Stars From a String
 
 ### Hard (3 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
