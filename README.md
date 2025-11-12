@@ -60,7 +60,7 @@
 - `3318`. Find X-Sum of All K-Long Subarrays I
 - `2169`. Count Operations to Obtain Zero
 
-### Medium (38 Solved)
+### Medium (39 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -99,6 +99,7 @@
 - `2390`. Removing Stars From a String
 - `3542`. Minimum Operations to Convert All Elements to Zero ❓
 - `474`. Ones and Zeroes ❓
+- `1381`. Design a Stack With Increment Operation (100th problem)
 
 ### Hard (3 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
