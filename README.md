@@ -60,7 +60,7 @@
 - `3318`. Find X-Sum of All K-Long Subarrays I
 - `2169`. Count Operations to Obtain Zero
 
-### Medium (41 Solved)
+### Medium (42 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -102,6 +102,7 @@
 - `1381`. Design a Stack With Increment Operation (100th problem)
 - `2654`. Minimum Number of Operations to Make All Array Elements Equal to 1
 - `3228`. Maximum Number of Operations to Move Ones to the End ❓
+- `2536`. Increment Submatrices by One
 
 ### Hard (3 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
