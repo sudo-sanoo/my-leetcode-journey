@@ -103,6 +103,7 @@
 - `2654`. Minimum Number of Operations to Make All Array Elements Equal to 1
 - `3228`. Maximum Number of Operations to Move Ones to the End ❓
 - `2536`. Increment Submatrices by One
+- `1513`. Number of Substrings With Only 1s
 
 ### Hard (3 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
