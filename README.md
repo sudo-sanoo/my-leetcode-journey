@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (58 Solved)
+### Easy (59 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -59,8 +59,9 @@
 - `3289`. The Two Sneaky Numbers of Digitville (2 sneaky bastards have been arrested)
 - `3318`. Find X-Sum of All K-Long Subarrays I
 - `2169`. Count Operations to Obtain Zero
+- `1437`. Check If All 1's Are at Least Length K Places Away
 
-### Medium (42 Solved)
+### Medium (43 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -104,7 +105,6 @@
 - `3228`. Maximum Number of Operations to Move Ones to the End ❓
 - `2536`. Increment Submatrices by One
 - `1513`. Number of Substrings With Only 1s
-- `1437`. Check If All 1's Are at Least Length K Places Away
 
 ### Hard (3 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
