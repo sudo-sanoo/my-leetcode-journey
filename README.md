@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (60 Solved)
+### Easy (61 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -61,6 +61,7 @@
 - `2169`. Count Operations to Obtain Zero
 - `1437`. Check If All 1's Are at Least Length K Places Away
 - `717`. 1-bit and 2-bit Characters
+- `2154`. Keep Multiplying Found Values by Two
 
 ### Medium (43 Solved)
 - `49`. Group Anagrams
