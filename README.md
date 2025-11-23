@@ -64,7 +64,7 @@
 - `2154`. Keep Multiplying Found Values by Two
 - `3190`. Find Minimum Operations to Make All Elements Divisible by Three
 
-### Medium (43 Solved)
+### Medium (44 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -108,6 +108,7 @@
 - `3228`. Maximum Number of Operations to Move Ones to the End ❓
 - `2536`. Increment Submatrices by One
 - `1513`. Number of Substrings With Only 1s
+- `1262`. Greatest Sum Divisible by Three
 
 ### Hard (3 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
