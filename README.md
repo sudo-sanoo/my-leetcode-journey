@@ -65,7 +65,7 @@
 - `3190`. Find Minimum Operations to Make All Elements Divisible by Three
 - `1018`. Binary Prefix Divisible By 5
 
-### Medium (44 Solved)
+### Medium (45 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -110,6 +110,7 @@
 - `2536`. Increment Submatrices by One
 - `1513`. Number of Substrings With Only 1s
 - `1262`. Greatest Sum Divisible by Three
+- `1015`. Smallest Integer Divisible by K
 
 ### Hard (3 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
