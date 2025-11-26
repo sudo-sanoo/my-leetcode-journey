@@ -113,7 +113,8 @@
 - `1015`. Smallest Integer Divisible by K
 - `1930`. Unique Length-3 Palindomic Subsequences
 
-### Hard (3 Solved)
+### Hard (4 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
+- `2435`. Paths in Matrix Whose Sum is Divisible by K ❓
