@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (63 Solved)
+### Easy (64 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -64,6 +64,7 @@
 - `2154`. Keep Multiplying Found Values by Two
 - `3190`. Find Minimum Operations to Make All Elements Divisible by Three
 - `1018`. Binary Prefix Divisible By 5
+- `3512`. Minimum Operations to Make Array Sum Divisible by K
 
 ### Medium (47 Solved)
 - `49`. Group Anagrams
