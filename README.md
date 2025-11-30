@@ -66,7 +66,7 @@
 - `1018`. Binary Prefix Divisible By 5
 - `3512`. Minimum Operations to Make Array Sum Divisible by K
 
-### Medium (48 Solved)
+### Medium (49 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -115,6 +115,7 @@
 - `1930`. Unique Length-3 Palindomic Subsequences
 - `3381`. Maximum Subarray Sum With Length Divisible by K ❓
 - `3234`. Count the Number of Substrings With Dominant Ones ❓
+- `1590`. Make Sum Divisible by P
 
 ### Hard (6 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
