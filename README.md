@@ -70,7 +70,7 @@
 - `1523`. Count Odd Numbers in an Interval Range
 - `1925`. Count Square Sum Triples
 
-### Medium (50 Solved)
+### Medium (51 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -121,6 +121,7 @@
 - `3234`. Count the Number of Substrings With Dominant Ones ❓
 - `1590`. Make Sum Divisible by P
 - `2211`. Count Collisions on a Road
+- `3531`. Count Covered Buildings
 
 ### Hard (6 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
