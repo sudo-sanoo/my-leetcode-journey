@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (69 Solved)
+### Easy (70 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -70,6 +70,7 @@
 - `1523`. Count Odd Numbers in an Interval Range
 - `1925`. Count Square Sum Triples
 - `1470`. Shuffle the Array
+- `485`. Max Consecutive Ones
 
 ### Medium (51 Solved)
 - `49`. Group Anagrams
