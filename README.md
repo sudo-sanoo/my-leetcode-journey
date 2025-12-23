@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (68 Solved)
+### Easy (69 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -69,6 +69,7 @@
 - `3432`. Count Partitions with Even Sum Difference
 - `1523`. Count Odd Numbers in an Interval Range
 - `1925`. Count Square Sum Triples
+- `1470`. Shuffle the Array
 
 ### Medium (51 Solved)
 - `49`. Group Anagrams
