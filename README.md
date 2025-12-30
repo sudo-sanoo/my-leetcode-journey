@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (71 Solved)
+### Easy (72 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -72,6 +72,7 @@
 - `1470`. Shuffle the Array
 - `485`. Max Consecutive Ones
 - `1351`. Count Negative Numbers in a Sorted Matrix
+- `944`. Delete Columns to Make Sorted
 
 ### Medium (51 Solved)
 - `49`. Group Anagrams
