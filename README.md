@@ -76,7 +76,7 @@
 - `961`. N-Repeated Element in Size 2N Array
 - `66`. Plus One
 
-### Medium (52 Solved)
+### Medium (53 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -129,6 +129,7 @@
 - `2211`. Count Collisions on a Road
 - `3531`. Count Covered Buildings
 - `840`. Magic Squares in Grid
+- `1975`. Maximum Matrix Sum
 
 ### Hard (6 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
