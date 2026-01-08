@@ -132,10 +132,11 @@
 - `1975`. Maximum Matrix Sum
 - `15`. 3Sum
 
-### Hard (6 Solved)
+### Hard (7 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
 - `2435`. Paths in Matrix Whose Sum is Divisible by K ❓
 - `2872`. Maximum Number of K-Divisible Components ❓
 - `757`. Set Intersection Size At Least Two (Sort + Greedy ✅)
+- `42`. Trapping Rain Water
