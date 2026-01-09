@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (75 Solved)
+### Easy (76 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -76,6 +76,7 @@
 - `961`. N-Repeated Element in Size 2N Array
 - `66`. Plus One
 - `20`. Valid Parentheses
+- `67`. Add Binary
 
 ### Medium (54 Solved)
 - `49`. Group Anagrams
