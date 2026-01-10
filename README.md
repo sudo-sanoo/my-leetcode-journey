@@ -133,6 +133,7 @@
 - `840`. Magic Squares in Grid
 - `1975`. Maximum Matrix Sum
 - `15`. 3Sum
+- `155`. Min Stack
 
 ### Hard (7 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
