@@ -78,7 +78,7 @@
 - `20`. Valid Parentheses
 - `67`. Add Binary
 
-### Medium (54 Solved)
+### Medium (55 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
