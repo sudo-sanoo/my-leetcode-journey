@@ -79,7 +79,7 @@
 - `67`. Add Binary
 - `1266`. Minimum Time Visiting All Points
 
-### Medium (57 Solved)
+### Medium (58 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -137,6 +137,7 @@
 - `155`. Min Stack
 - `75`. Sort Colors
 - `8` String to Integer (atoi) **Worst problem ever, solved using regex, return when I have time** ❓
+- `1006` Clumsy Factorial
 
 ### Hard (7 Solved)
 - `3321` Find X-Sum of All K-Long Subarrays II ❓
