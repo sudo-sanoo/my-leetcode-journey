@@ -79,7 +79,7 @@
 - `67`. Add Binary
 - `1266`. Minimum Time Visiting All Points
 
-### Medium (58 Solved)
+### Medium (59 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -136,11 +136,12 @@
 - `15`. 3Sum
 - `155`. Min Stack
 - `75`. Sort Colors
-- `8` String to Integer (atoi) **Worst problem ever, solved using regex, return when I have time** ❓
-- `1006` Clumsy Factorial
+- `8`. String to Integer (atoi) **Worst problem ever, solved using regex, return when I have time** ❓
+- `1006`. Clumsy Factorial
+- `371`. Sum of Two Integers
 
 ### Hard (7 Solved)
-- `3321` Find X-Sum of All K-Long Subarrays II ❓
+- `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
 - `2435`. Paths in Matrix Whose Sum is Divisible by K ❓
