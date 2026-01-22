@@ -80,7 +80,7 @@
 - `1266`. Minimum Time Visiting All Points
 - `509`. Fibonacci Number
 
-### Medium (63 Solved)
+### Medium (64 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -144,6 +144,7 @@
 - `46`. Permutation
 - `875`. Koko Eating Bananas ❓
 - `74`. Search a 2D Matrix
+- `1701`. Average Waiting Time
 
 ### Hard (7 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
