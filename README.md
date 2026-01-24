@@ -81,7 +81,7 @@
 - `509`. Fibonacci Number
 - `121`. Best Time to Buy and Sell Stock
 
-### Medium (68 Solved)
+### Medium (69 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -150,6 +150,7 @@
 - `1004`. Maximum Consecutive Ones III
 - `424`. Longest Repeating Character Replacement
 - `1877`. Minimize Maximum Pair Sum in Array
+- `567`. Permutation in String
 
 ### Hard (7 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
