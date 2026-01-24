@@ -79,6 +79,7 @@
 - `67`. Add Binary
 - `1266`. Minimum Time Visiting All Points
 - `509`. Fibonacci Number
+- `121`. Best Time to Buy and Sell Stock
 
 ### Medium (68 Solved)
 - `49`. Group Anagrams
