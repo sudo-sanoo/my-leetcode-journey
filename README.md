@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (78 Solved)
+### Easy (79 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -80,6 +80,7 @@
 - `1266`. Minimum Time Visiting All Points
 - `509`. Fibonacci Number
 - `121`. Best Time to Buy and Sell Stock
+- `1984`. Minimum Difference Between Highest and Lowest of K Scores
 
 ### Medium (69 Solved)
 - `49`. Group Anagrams
