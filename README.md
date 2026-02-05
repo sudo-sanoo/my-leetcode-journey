@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (83 Solved)
+### Easy (84 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -84,6 +84,7 @@
 - `1200`. Minimum Absolute Difference
 - `3010`. Divide an Array Into Subarrays With Minimum Cost I
 - `3637`. Trionic Array I
+- `3379`. Transformed Array
 
 ### Medium (71 Solved)
 - `49`. Group Anagrams
