@@ -86,7 +86,7 @@
 - `3637`. Trionic Array I
 - `3379`. Transformed Array
 
-### Medium (71 Solved)
+### Medium (72 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -158,6 +158,7 @@
 - `567`. Permutation in String
 - `73`. Set Matrix Zeroes
 - `131`. Palindrome Partitioning
+- `3634`. Minimum Removals to Balance Array
 
 ### Hard (7 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
