@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (85 Solved)
+### Easy (86 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -86,6 +86,7 @@
 - `3637`. Trionic Array I
 - `3379`. Transformed Array
 - `876`. Middle of the Linked List
+- `1290`. Convert Binary Number in a Linked List to Integer
 
 ### Medium (72 Solved)
 - `49`. Group Anagrams
