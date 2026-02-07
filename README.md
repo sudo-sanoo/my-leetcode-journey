@@ -88,7 +88,7 @@
 - `876`. Middle of the Linked List
 - `1290`. Convert Binary Number in a Linked List to Integer
 
-### Medium (72 Solved)
+### Medium (73 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -161,6 +161,7 @@
 - `73`. Set Matrix Zeroes
 - `131`. Palindrome Partitioning
 - `3634`. Minimum Removals to Balance Array
+- `1653`. Minimum Deletions to Make String Balanced
 
 ### Hard (7 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
