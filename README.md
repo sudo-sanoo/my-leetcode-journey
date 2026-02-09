@@ -111,7 +111,7 @@
 - `3`. Longest Substring Without Repeating Characters
 - `413`. Arithmetic Slices
 - `442`. Find All Duplicates in an Array
-- `3217`. Delete Nodes From Linked List Present in Array ❓
+- `3217`. Delete Nodes From Linked List Present in Array
 - `2257`. Count Unguarded Cells in the Grid ❓
 - `1749`. Maximum Absolute Sum of Any Subarray (Kadane's ✅, Prefix Sum ✅)
 - `395`. Longest Substring with At Least K Repeating Characters (Sliding Window ✅, Divide and Conquer ❌) ❓
