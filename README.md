@@ -90,7 +90,7 @@
 - `2124`. Check if All A's Appears Before All B's
 - `206`. Reverse Linked List
 
-### Medium (77 Solved)
+### Medium (78 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -168,6 +168,7 @@
 - `2487`. Remove Nodes From Linked List
 - `19`. Remove Nth Node From End of List
 - `3719`. Longest Balanced Subarray I (Bruteforce ✅, Divide & Conquer + Segment Tree ❌)
+- `2`. Add Two Numbers
 
 ### Hard (7 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
