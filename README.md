@@ -169,6 +169,7 @@
 - `19`. Remove Nth Node From End of List
 - `3719`. Longest Balanced Subarray I (Bruteforce ✅, Divide & Conquer + Segment Tree ❌)
 - `2`. Add Two Numbers (Queue + Linked List ✅)
+- `3713`. Longest Balanced Substring I
 
 ### Hard (7 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
