@@ -175,7 +175,7 @@
 - `2816`. Double a Number Represented as a Linked List
 - `237`. Delete Node in a Linked List
 - `6`. Zigzag Conversion (Bruteforce ✅, Optimized ✅)
-- `2130`. Maximum Twin Sum of a Linked List (Bruteforce ✅, Optimized ✅)
+- `2130`. Maximum Twin Sum of a Linked List (Vector + 2P ✅, Stack ✅, Optimized ✅)
 
 ### Hard (7 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
