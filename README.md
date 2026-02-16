@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (88 Solved)
+### Easy (89 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -89,6 +89,7 @@
 - `1290`. Convert Binary Number in a Linked List to Integer
 - `2124`. Check if All A's Appears Before All B's
 - `206`. Reverse Linked List
+- `190`. Reverse Bits
 
 ### Medium (83 Solved)
 - `49`. Group Anagrams
@@ -173,7 +174,7 @@
 - `445`. Add Two Numbers II
 - `2816`. Double a Number Represented as a Linked List
 - `237`. Delete Node in a Linked List
-- `6`. Zigzag Conversion (Bruteforce ✅, Optimized ❌)
+- `6`. Zigzag Conversion (Bruteforce ✅, Optimized ✅)
 
 ### Hard (7 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
