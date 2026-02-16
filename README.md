@@ -91,7 +91,7 @@
 - `206`. Reverse Linked List
 - `190`. Reverse Bits
 
-### Medium (83 Solved)
+### Medium (84 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -175,6 +175,7 @@
 - `2816`. Double a Number Represented as a Linked List
 - `237`. Delete Node in a Linked List
 - `6`. Zigzag Conversion (Bruteforce ✅, Optimized ✅)
+- `2130`. Maximum Twin Sum of a Linked List (Bruteforce ✅, Optimized ✅)
 
 ### Hard (7 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
