@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (89 Solved)
+### Easy (90 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -90,6 +90,7 @@
 - `2124`. Check if All A's Appears Before All B's
 - `206`. Reverse Linked List
 - `190`. Reverse Bits
+- `696`. Count Binary Substrings
 
 ### Medium (85 Solved)
 - `49`. Group Anagrams
