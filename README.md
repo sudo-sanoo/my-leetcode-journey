@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (91 Solved)
+### Easy (92 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -92,6 +92,7 @@
 - `190`. Reverse Bits
 - `693`. Binary Number with Alternating Bits
 - `696`. Count Binary Substrings
+- `762`. Prime Number of Set Bits in Binary Representation
 
 ### Medium (85 Solved)
 - `49`. Group Anagrams
