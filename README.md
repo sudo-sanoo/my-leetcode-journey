@@ -94,7 +94,7 @@
 - `696`. Count Binary Substrings
 - `762`. Prime Number of Set Bits in Binary Representation
 
-### Medium (85 Solved)
+### Medium (86 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -180,6 +180,7 @@
 - `6`. Zigzag Conversion (Bruteforce ✅, Optimized ✅)
 - `2130`. Maximum Twin Sum of a Linked List (Vector + 2P ✅, Stack ✅, Optimized ✅)
 - `3746`. Minimum String Length After Balanced Removals
+- `153`. Find Minimum in Rotated Sorted Array
 
 ### Hard (7 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
