@@ -181,9 +181,9 @@
 - `2130`. Maximum Twin Sum of a Linked List (Vector + 2P ✅, Stack ✅, Optimized ✅)
 - `3746`. Minimum String Length After Balanced Removals
 - `153`. Find Minimum in Rotated Sorted Array
-- `33`. Search in Rotated Sorted Array (Suboptimal ✅, Optimal ❌)
+- `33`. Search in Rotated Sorted Array (Suboptimal ✅, Optimal ✅)
 
-### Hard (7 Solved)
+### Hard (8 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
@@ -191,3 +191,5 @@
 - `2872`. Maximum Number of K-Divisible Components ❓
 - `757`. Set Intersection Size At Least Two (Sort + Greedy ✅)
 - `42`. Trapping Rain Water
+- `4`. Median of Two Sorted Arrays (Suboptimal ✅, Optimal ❌)
+
