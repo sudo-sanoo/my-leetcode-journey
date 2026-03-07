@@ -94,7 +94,7 @@
 - `696`. Count Binary Substrings
 - `762`. Prime Number of Set Bits in Binary Representation
 
-### Medium (87 Solved)
+### Medium (88 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -182,6 +182,7 @@
 - `3746`. Minimum String Length After Balanced Removals
 - `153`. Find Minimum in Rotated Sorted Array
 - `33`. Search in Rotated Sorted Array (Suboptimal ✅, Optimal ✅)
+- `151`. Reverse Words in a String (Suboptimal ✅, Optimal ❌)
 
 ### Hard (8 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
