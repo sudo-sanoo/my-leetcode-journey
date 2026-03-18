@@ -94,7 +94,7 @@
 - `696`. Count Binary Substrings
 - `762`. Prime Number of Set Bits in Binary Representation
 
-### Medium (91 Solved)
+### Medium (92 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -186,6 +186,7 @@
 - `1980` Find Unique Binary String
 - `3070`. Count Submatrices with Top-Left Element and Sum Less Than k (Suboptimal ✅, Optimal ❌)
 - `2799`. Count Complete Subarrays in an Array
+- `1750`. Minimum Length of String After Deleting Similar Ends
 
 ### Hard (8 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
